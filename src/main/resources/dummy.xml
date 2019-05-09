@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<class>
+	<uavs>
+		<uav id="1" typeOfUav="repülő">
+			<path roundTimeInMs = "523">
+				<point>
+					<latitude>99.3</latitude>
+					<progress>9</progress>
+				</point>
+				<point>
+					<latitude>88.3</latitude>
+					<progress>8</progress>
+				</point>
+				<point>
+					<latitude>77.3</latitude>
+					<progress>7</progress>
+				</point>
+			</path>
+		</uav>
+		<uav id="2" typeOfUav="zuhanó">
+			<path roundTimeInMs = "51">
+				<point>
+					<latitude>9.3</latitude>
+					<progress>3</progress>
+				</point>
+				<point>
+					<latitude>8.3</latitude>
+					<progress>4</progress>
+				</point>
+				<point>
+					<latitude>7.3</latitude>
+					<progress>5</progress>
+				</point>
+			</path>
+		</uav>
+	</uavs>
+</class>
